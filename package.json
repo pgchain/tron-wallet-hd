@@ -15,7 +15,7 @@
     "bip32": "^1.0.2",
     "bip39": "^2.5.0",
     "bitcore-lib": "https://github.com/pgchain/bitcore-lib.git",
-    "bitcore-mnemonic": "https://github.com/pgchain/bitcore-mnemonic.git",
+    "bitcore-mnemonic": "https://github.com/pgchain/bitcore-mnemonic.git#692067762c75cd4796421d85b49d2f2224c410dc",
     "core-js": "^3.4.3",
     "crypto-js": "^4.0.0",
     "elliptic": "6.4.1",
